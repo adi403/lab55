@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-hello abhinanadan
-=======
-hello kc
->>>>>>> branch2
